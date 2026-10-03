@@ -1,7 +1,0 @@
-#Successful Tests
-#Sat Oct 03 17:03:54 UTC 2026
-risc_v.Toptest=1791047034855
-risc_v.Controltest=1790059572827
-risc_v.Alutest=1790059573106
-risc_v.ControlDecodetest=1790059452597
-risc_v.AluControltest=1790059539485

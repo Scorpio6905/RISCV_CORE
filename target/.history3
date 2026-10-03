@@ -1,7 +1,0 @@
-1790002564385:testOnly risc_v.Toptest -- -DwriteVcd=1
-1790008506079:testOnly - --DwriteVcd=1 risc_v.Toptest
-1790008511919:testOnly risc_v.Toptest -- -DwriteVcd=1
-1790060873990:git add .
-1790061822416:testOnly risc_v.Toptest -- -DwriteVcd=1
-1791047005903:testOnly risc_v.Toptest -- - DwriteVcd=1
-1791047030190:testOnly risc_v.Toptest -- -DwriteVcd=1
