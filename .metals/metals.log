@@ -1,0 +1,16 @@
+2026.10.03 17:02:47 INFO  Started: Metals version 1.6.9 in folders '/home/goldfox/RISCV_CORE' for client Visual Studio Code 1.138.0.
+2026.10.03 17:02:47 INFO  Memory monitor started
+2026.10.03 17:02:47 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.03 17:02:48 INFO  no build target found for /home/goldfox/RISCV_CORE/src/main/scala/risc_v/top.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.03 17:02:51 INFO  no build target found for /home/goldfox/RISCV_CORE/src/main/scala/risc_v/top.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.03 17:03:27 INFO  no build target found for /home/goldfox/RISCV_CORE/src/main/scala/risc_v/top.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.03 17:05:00 INFO  no build target found for /home/goldfox/RISCV_CORE/src/main/scala/risc_v/top.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.03 17:05:00 INFO  no build target found for /home/goldfox/RISCV_CORE/src/test/scala/risc_v/Toptest.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.03 17:05:01 INFO  no build target found for /home/goldfox/RISCV_CORE/src/test/scala/risc_v/Toptest.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.03 17:05:00 INFO  no build target found for /home/goldfox/RISCV_CORE/src/test/scala/risc_v/Toptest.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Oct 03, 2026 5:05:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.10.03 17:05:02 INFO  no build target found for /home/goldfox/RISCV_CORE/src/test/scala/risc_v/Toptest.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.03 17:05:02 INFO  no build target found for /home/goldfox/RISCV_CORE/src/test/scala/risc_v/Toptest.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Oct 03, 2026 5:09:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

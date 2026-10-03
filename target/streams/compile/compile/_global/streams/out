@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/goldfox/RISCV_CORE/src/main/scala/risc_v/regfile.scala:5:7: Generated class risc_v.Config differs only in case from risc_v.CONFIG (defined in CodeMem.scala).[0m
+[0m[[0m[33mwarn[0m] [0m[0m  Such classes will overwrite one another on case-insensitive filesystems.[0m
+[0m[[0m[33mwarn[0m] [0m[0mtrait Config {[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
